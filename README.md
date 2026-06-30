@@ -7,7 +7,6 @@ This repository contains my personal writeups while studying penetration testing
 ## Categories
 
 - TryHackMe
-- HTB Academy
 - Hack The Box
 - PortSwigger Web Security Academy
 - OWASP Juice Shop
